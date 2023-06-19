@@ -20,7 +20,7 @@ RELEASE_YEAR: int = 2022
 HOMEPAGE_URL: str = "https://universe.roboflow.com/college-2t4kc/powerline-detection"
 # e.g. "https://some.com/dataset/homepage"
 
-PREVIEW_IMAGE_ID: int = 657833
+PREVIEW_IMAGE_ID: int = 657839
 # This should be filled AFTER uploading images to instance, just ID of any image.
 
 GITHUB_URL: str = "https://github.com/dataset-ninja/powerline-detection"
